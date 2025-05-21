@@ -1,0 +1,11 @@
+Dynamic_Website/
+├──node_modules
+│
+├── public/                
+│   ├── logo.png            # Main web page (HTML structure)
+│   └── sytle.js            # Styling with gradients and glassmorphism
+│
+├── index.js        
+│
+├── package-lock.json           
+└── package.json
